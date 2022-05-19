@@ -1,0 +1,35 @@
+.heading{
+    font-family: 'Koulen', cursive;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    text-shadow: 5px 5px 5px grey;
+    color: sandybrown;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+ 
+body{
+    background: linear-gradient(#40916c 0%, #afcbff 100%);
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    background-color: grey;
+    text-align: center;
+    line-height: 2;
+    text-shadow: 5px 5px 5px black;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
